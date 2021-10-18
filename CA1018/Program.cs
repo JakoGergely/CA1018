@@ -19,6 +19,7 @@ namespace CA1018
             Console.WriteLine($"2. feladat:\nÖsszesen {csincsillak.Count} csincsilla van.\n");
 
 
+
             Console.ReadKey(true);
         }
     }
